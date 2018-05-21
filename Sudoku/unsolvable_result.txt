@@ -1,0 +1,21 @@
+"C:\Program Files\Java\jdk1.8.0_151\bin\java" "-javaagent:D:\Program Files\IntelliJ IDEA Community Edition 2017.1.2\lib\idea_rt.jar=50461:D:\Program Files\IntelliJ IDEA Community Edition 2017.1.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_151\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar;D:\Abdul\Documents\COSC 2P05\Sudoku\out\production\Sudoku" com.company.Main
+Please enter an integer value from 1 to 3 to select a file or 4 for a specified file path
+3
+5 0 3 0 2 0 6 0 0 
+9 0 0 3 0 5 0 0 1 
+0 0 1 8 0 6 4 0 0 
+0 0 8 1 0 2 9 0 0 
+7 0 0 0 0 0 0 0 8 
+0 0 6 7 0 8 2 0 0 
+0 0 2 6 0 9 5 0 0 
+8 0 0 2 0 3 0 0 9 
+0 0 5 0 1 0 3 0 0 
+
+Yes! The Board is valid
+
+The board has no solution
+
+Do you wish to continue, please press 'Y' or 'y' 
+a
+
+Process finished with exit code 0
